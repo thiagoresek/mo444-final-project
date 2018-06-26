@@ -1,1 +1,9 @@
-The trained classifiers will be saved here, as pickle objects.
+EVENT REPURPOSING
+
+This is the final project for the MO444 discipline. The following folders are included:
+
+* source/: contains our implemented source code (Python and Jupyter notebook files)
+* places_keras/: the implementation of the Places365 and Hybrid1365 networks, downloaded from https://github.com/GKalliatakis/Keras-VGG16-places365.
+
+
+Note: for space limitation reasons, we have not included the dataset for this project.
