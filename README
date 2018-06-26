@@ -7,7 +7,7 @@ This is the final project for the MO444 discipline. The following folders are in
 * classifiers/: this folder is where the trained classifiers are stored, as Pickle objects
 * features/: the pre-computed feature vectores, as extracted by the CNNs, are saved here
 
-Note: for space limitation reasons, we have not included the dataset for this project. It should be added in the input/ folder.
+Note: for space limitation reasons, we have not included the dataset for this project and the weights of nets. The dataset should be added in the input/ folder, and the weights in the same fold of the finetunning codes. 
 
 Gabriel Capiteli Bertocco - RA 155419
 Thiago Resek Fabri dos Anjos - RA 04674
