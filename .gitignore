@@ -1,0 +1,17 @@
+# IntelliJ project files
+.DS_Store
+.idea
+*.iml
+out
+gen
+**/output/*
+**/__pycache__/*
+**/.texpadtmp/*
+**/__MACOSX/*
+**/authors_code/
+**/authors_code/*
+**/authors_code/**
+**/input/MO444_dogs/
+**/data/*
+**/src/.idea**
+*.ipynb
